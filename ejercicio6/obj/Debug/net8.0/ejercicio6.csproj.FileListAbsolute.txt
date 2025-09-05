@@ -1,0 +1,14 @@
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\bin\Debug\net8.0\ejercicio6.exe
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\bin\Debug\net8.0\ejercicio6.deps.json
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\bin\Debug\net8.0\ejercicio6.runtimeconfig.json
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\bin\Debug\net8.0\ejercicio6.dll
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\bin\Debug\net8.0\ejercicio6.pdb
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\obj\Debug\net8.0\ejercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\obj\Debug\net8.0\ejercicio6.AssemblyInfoInputs.cache
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\obj\Debug\net8.0\ejercicio6.AssemblyInfo.cs
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\obj\Debug\net8.0\ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\obj\Debug\net8.0\ejercicio6.dll
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\obj\Debug\net8.0\refint\ejercicio6.dll
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\obj\Debug\net8.0\ejercicio6.pdb
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\obj\Debug\net8.0\ejercicio6.genruntimeconfig.cache
+C:\Users\PAVILION\source\repos\ejercicios\ejercicio6\obj\Debug\net8.0\ref\ejercicio6.dll
